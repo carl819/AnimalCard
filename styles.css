@@ -1,0 +1,48 @@
+.Tiger-Image {
+width: 300px;
+height: 200px;
+margin-bottom: 10px;
+}
+
+#Tiger-fact {
+font-style: italic;
+ margin-left: 10px;
+ margin-right: 10px
+}
+
+.sciencename {
+  font-weight: bold;
+}
+
+.bodylength{
+  font-weight: bold;
+}
+
+.longevity{
+  font-weight: bold;
+}
+
+.environment{
+font-weight: bold;
+}
+
+#list{
+ list-style: none;
+ margin-left: 10px;
+ margin-right: 10px
+}
+
+#main-div {
+border: 1px black solid;
+padding: 15px;
+width: 300px;
+}
+
+#info {
+margin-left: 10px;
+margin-right: 10px
+}
+
+#second-div {
+border: 1px black solid;
+}
